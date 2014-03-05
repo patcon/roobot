@@ -1,6 +1,6 @@
 {
   "name": "roobot",
-  "version": "0.0.11",
+  "version": "0.0.15",
   "author": {
     "name": "Patrick Connolly",
     "email": "patrick.c.connolly@gmail.com",
@@ -29,7 +29,8 @@
     "hubot-irc": "~0.2.0",
     "coffee-script": "~1.7.1",
     "hubot-auth": "git://github.com/patcon/hubot-auth.git#3-dont-add-admin-roles",
-    "hubot-factoid": "0.0.1"
+    "hubot-factoid": "0.0.1",
+    "hubot-github-repo-webhook-notifier": "git://github.com/patcon/hubot-github-repo-webhook-notifier.git#4-arbitrary-events"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
